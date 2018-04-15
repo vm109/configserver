@@ -1,0 +1,7 @@
+encrypt:
+  key-store:
+    alias: config-server-key
+    secret: s3cr3t
+    password: s3cr3t
+    location: config-server.jks
+
